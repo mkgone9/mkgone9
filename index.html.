@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        
+        body {
+            background-color: rgb(163, 208, 230);
+        }
+        h1{color: rgb(3, 16, 102);}
+        li{color: rgb(10, 129, 133);}
+        #biryani{color: rgb(30, 23, 232);}
+        #paneer{color: rgb(30,23,232);} #ariselu{color: rgb(30,23,232);}
+        
+        </style>
+    </head>
+    <body>
+       
+        <h1>My Recipe Book</h1>
+        
+        <h2 id="recipes">Recipes i liked more..!!:</h2>
+        <ol><li><a href="#biryani">chicken biryani</a><br><br>
+        </li><li><a href="#paneer">Paneer tikka roll</a></li><br><li><a href="#ariselu">Ariselu recipe</a></li></ol>
+        
+        
+        <ul>
+            <li><strong>Recipe #1</strong></li>
+        </ul>
+        
+        <h2 id="biryani"><em>chicken biryani</em></h2><p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Hyderabadi_Chicken_Biryani.jpg/1024px-Hyderabadi_Chicken_Biryani.jpg" width="500">
+        <em><strong>Hyderabadi Chicken Biryani Recipe</strong></em>: One of the most popular biryani recipe, Hyderabadi Biryani is a dish from down the south but spread all across the country and even abroad. This flavourful and delicious gastronomic wonder is a treat to relish on and is often cooked for dinner parties in north Indian kitchens. Create it at home to make a mark at your dinner party!</p>
+        
+        <ul>
+            <li>Time: 2hr30min</li>
+            <li>Serves: 2</li>
+        </ul>
+         
+       <table>
+            <thead>
+                <tr>
+                    <th>key Ingredients</th>
+                    <th>Quantity</th>
+                </tr> <tr>
+                    <td>meat</td>
+                    <td>1/2 kg
+                </tr> <tr>
+                    <td>eggs</td>
+                    <td>4
+                </tr> <tr>
+                    <td>basmati rice</td>
+                    <td>1kg
+                </tr> <tr><td>other ingredients</td>
+                <td> as required
+                    
+                </tr>
+            </thead>
+            
+        </table>
+        <h3>how to make..?</h3>
+        <p><strong>Step 1:</strong>
+1.Clean the meat. Now in a pan add meat, salt, ginger garlic paste, red chilli powder, green chilli paste, sauteed brown onions, cardamom powder, cinnamon, cumin seeds, cloves, mace, mint leaves and lemon juice.<br>
+<strong>step 2</strong>.Mix all of these ingredients thoroughly together.<br>
+<strong>step 3</strong>.Add curd, clarified butter, semi cooked rice, saffron, water and oil. Mix it well.<br>
+<strong>step 4</strong>.Now apply sticky dough on the sides of the pan.<br>
+
+<strong>step 5</strong>.Cover with lid to seal it and cook for about 25 minutes.<br>
+<strong>step6</strong>.Hyderabadi Biryani is ready to eat. Garnish it with boiled eggs, sliced carrots, cucumbers and serve hot.
+</p>
+        
+    <p><em>Source: <a href="https://food.ndtv.com/recipe-hyderabadi-biryani-517349">click here..</a></em></p>
+    <ul><li><strong>recipe #2</strong></li></ul>
+      <h2 id="paneer"><em>Paneer Tikka Roll</em></h2>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Kolkata_Rolls.jpg/800px-Kolkata_Rolls.jpg"width="400">
+        <p>Lip smacking spicy paneer tikka wrapped in a roti or paratha, which will leave you wanting for more. It is not just a different way of enjoying paneer tikkas but also a health, stomach filling food that can simply liven up your taste buds.</p>
+        <ul>
+            <li>Time: 2hr</li>
+            <li>Serves: 2</li>
+        </ul>       <table>
+            <thead>
+                <tr>
+                    <th>key Ingredients</th>
+                    <th>Quantity</th>
+                </tr> <tr>
+                    <td>paneer cubes</td>
+                    <td>10-15
+                </tr> <tr>
+                    <td>maida</td>
+                    <td>2cups
+                </tr> <tr>
+                    <td>curd</td>
+                    <td>1/2 cup
+                </tr> <tr><td>other ingredients</td>
+                <td> as required
+                    
+                </tr>
+            </thead>
+            
+        </table>
+        <h3>how to make..?</h3>
+       <p> click on below link to know how to prepare</p>
+
+
+        
+    <p><em>Source: <a href="https://food.ndtv.com/recipe-paneer-tiikka-roll-951631">click here..</a></em></p>
+        <ul><li><strong>recipe #3</strong></li></ul>
+      <h2 id="ariselu"><em>Ariselu recipe</em></h2>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Ariselu.jpg"width="400">
+      <p>Ariselu is a special Andhra/Telangana sweet, also called Kajjaaya in Kannada, Anarsa in Marathi and Adhirasam in Tamil Nadu. It is a traditional Indian sweet which is specially prepared during the festivities of Sankranti or Diwali. Sesame seeds are the specialty in Ariselu since they help in balancing the temperature of the body, specially in the winter season. This is a delectable Indian sweet to prepare this festive season and relish with family friends.</p>
+        <ul>
+            <li>Time: 1hr</li>
+            <li>Serves: 2</li>
+        </ul>       <table>
+            <thead>
+                <tr>
+                    <th>key Ingredients</th>
+                    <th>Quantity</th>
+                </tr> <tr>
+                    <td>rice</td>
+                    <td>1/2cup
+                </tr> <tr>
+                    <td>jaggery</td>
+                    <td>1/2cups
+                </tr> <tr>
+                    <td>water</td>
+                    <td>1cup
+                </tr> <tr><td>other ingredients</td>
+                <td> as required
+                    
+                </tr>
+            </thead>
+            
+        </table>
+        <h3>how to make..?</h3>
+       <p> click on below link to know how to prepare</p>
+
+
+        
+    <p><em>Source: <a href="https://food.ndtv.com/recipe-ariselu-952788">click here..</a></em></p>
+    <p><a href="#recipes"><em>go to top page</em></a></p>
+        
+    
+          </body>
+</html>
